@@ -86,9 +86,11 @@ For Transient Analysis Settings and Output
 
 
 
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/0c77e870-5b61-4382-a147-cf056e97fc98)
 
 ![Uploading image.png…]()
+
 
 
 
