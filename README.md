@@ -89,10 +89,10 @@ For Transient Analysis Settings and Output
 
 ![image](https://github.com/user-attachments/assets/0c77e870-5b61-4382-a147-cf056e97fc98)
 
-![Uploading image.png…]()
 
 
 
+![image](https://github.com/user-attachments/assets/a94fa5c8-c2d6-4c2a-98c2-dd1f7ef907a1)
 
 
 Results:
