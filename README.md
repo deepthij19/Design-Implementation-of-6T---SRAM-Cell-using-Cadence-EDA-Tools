@@ -1,4 +1,4 @@
-Design-Implementation-of-6T---SRAM-Cell-using-Cadence-EDA-Tools
+# Design-Implementation-of-6T---SRAM-Cell-using-Cadence-EDA-Tools
 Ex No: 01     Design & Implementation of 6T SRAM using Cadence EDA Tools   
 
 Aim:
@@ -47,7 +47,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/16c85cb4-0d7a-4698-852a-52e34a566099)
+![image](https://github.com/user-attachments/assets/377fb6c9-85b8-44b2-b027-74ff67b22e3b)
+
 
 
 
@@ -77,13 +78,15 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
-![image](https://github.com/user-attachments/assets/f3039124-f186-474b-a68e-14700640952e)
+![image](https://github.com/user-attachments/assets/2fd175a4-e5a5-4940-9711-0664044e63e0)
 
 
 For Transient Analysis Settings and Output
 
 
 
+
+![Uploading image.png…]()
 
 ![Uploading image.png…]()
 
